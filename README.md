@@ -17,8 +17,6 @@ Hi there! I'm Sagar Suthar, a passionate **web developer** dedicated to crafting
 
 ---
 
-## 🛠️ Skills & Technologies:
-
 ### **Languages:**
 ## 🛠️ Skills & Technologies:
 
@@ -48,17 +46,6 @@ Hi there! I'm Sagar Suthar, a passionate **web developer** dedicated to crafting
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-
-### **Back-End Development (In Progress):**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-
-### **Tools & Platforms:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ---
 
