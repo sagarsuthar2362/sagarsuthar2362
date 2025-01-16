@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! 🚀
 
-Hi there! I'm Sagar Suthar, a passionate **web developer** dedicated to crafting elegant, functional, and impactful web solutions. I'm on a continuous journey to learn, build, and contribute to the tech world. 
+Hi there! I'm **Sagar Suthar**, a passionate **web developer** dedicated to crafting elegant, functional, and impactful web solutions. I'm on a continuous journey to learn, build, and contribute to the tech world. 
 
 ---
 
