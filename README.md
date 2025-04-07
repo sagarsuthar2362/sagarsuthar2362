@@ -1,7 +1,7 @@
-# 💻 Hey, I’m Sagar Suthar! 🚀  
+# 👋 Hey, I’m Sagar Suthar! 🚀  
 A web developer who turns *dreams into code* and *code into reality*. Always learning, building, and pushing the limits of what’s possible!
 
-
+---
 
 # 💻 Welcome to My GitHub Profile! 🚀
 
