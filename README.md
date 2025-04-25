@@ -18,7 +18,6 @@ Hi there! I'm **Sagar Suthar**, a passionate **web developer** dedicated to craf
 
 ## 🌱 Currently Learning:
 - **Backend Development:** Mastering Node.js, Express, and databases.
-- **Stock Market Basics:** Exploring finance and investing.
 
 ---
 
