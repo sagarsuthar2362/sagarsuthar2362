@@ -50,22 +50,6 @@ I'm **Sagar Suthar**, a passionate **MERN stack developer** from India, dedicate
 
 ---
 
-## 🚀 Featured Projects
-
-### [Real-Time Crypto Price Tracker](https://github.com/sagarsuthar2362/crypto-tracker)
-A responsive web app built with React and Redux Toolkit to track crypto prices with simulated WebSocket updates.
-- **Tech Stack:** React, Redux, Tailwind CSS
-- **Demo:** [Insert live link or GIF here]
-<p align="center"><img src="https://via.placeholder.com/600x300?text=Crypto+Tracker+Demo" alt="Crypto Tracker" width="50%"/></p>
-
-### [Portfolio Website](https://github.com/sagarsuthar2362/portfolio)
-A sleek personal portfolio showcasing my skills and projects with smooth animations and dark mode.
-- **Tech Stack:** React, Tailwind CSS, Framer Motion
-- **Demo:** [Insert live link or GIF here]
-<p align="center"><img src="https://via.placeholder.com/600x300?text=Portfolio+Demo" alt="Portfolio" width="50%"/></p>
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarsuthar2362&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%"/>
