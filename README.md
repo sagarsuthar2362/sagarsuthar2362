@@ -16,7 +16,7 @@
 ## 🌟 About Me
 I'm **Sagar Suthar**, a passionate **MERN stack developer** from India, dedicated to crafting elegant and impactful web solutions. I love solving problems, learning new tech, and building projects that make a difference. When I'm not coding, you’ll find me exploring DSA, sipping chai, or breaking and fixing code (because that’s the coder’s way! 😎).
 
-**Favorite Quote:** *“Build it. Break it. Fix it. Repeat.”*
+
 
 ---
 
@@ -64,8 +64,8 @@ I'm **Sagar Suthar**, a passionate **MERN stack developer** from India, dedicate
 ## 📬 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-suthar-6a7b8a24b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/sagarsuthar2362"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:1sagarsuthar2362@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
