@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=Sagar+Suthar+-+Building+the+Future+with+Code" alt="Sagar Suthar Banner" width="100%"/>
+  <img src="https://github.com/sagarsuthar2362/sagarsuthar2362/blob/main/githubBanner.jpg" alt="Sagar Suthar Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hey, I’m Sagar Suthar! 🚀</h1>
