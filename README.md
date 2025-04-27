@@ -69,7 +69,7 @@ I'm **Sagar Suthar**, a passionate **MERN stack developer** from India, dedicate
 </p>
 
 <p align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sagarsuthar2362.sagarsuthar2362)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sagarsuthar2362.sagarsuthar2362" />
 </p>
 
 ---
