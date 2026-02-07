@@ -40,16 +40,25 @@ I enjoy building **scalable web applications**, writing clean backend logic, and
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
-HTML • CSS • JavaScript • C • C++ • Python • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,sql" />
+</p>
 
 ### 🌐 Frontend
-React • Next.js • Tailwind CSS • Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
 ### ⚙️ Backend
-Node.js • Express.js • MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### 🧰 Tools
-Git • GitHub • VS Code • Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
 
 ---
 
