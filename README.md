@@ -51,13 +51,16 @@ I'm **Sagar Suthar**, a passionate **MERN stack developer** from India, dedicate
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarsuthar2362&show_icons=true&theme=dracula" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsuthar2362&theme=dracula" alt="GitHub Streak" width="45%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sagarsuthar2362&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sagarsuthar2362&theme=dracula&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsuthar2362&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsuthar2362&layout=compact&theme=dracula&hide_border=true" />
 </p>
+
 
 ---
 
